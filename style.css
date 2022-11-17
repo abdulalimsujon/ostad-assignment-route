@@ -1,0 +1,8 @@
+.route {
+    color: red;
+    padding: 20px;
+}
+
+.route a {
+    text-decoration: none;
+}
